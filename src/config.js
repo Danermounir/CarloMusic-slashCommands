@@ -1,10 +1,10 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
+    token: "OTI4NzczNDI1ODYwODUzNzkx.YddpqA.le-JjEX8YKLBdX94-3Le0Uyryg0",
+    prefix: "-",
+    ownerID: "637299944939585576",
     SpotifyID: "",
     SpotifySecret: "",
-    mongourl: "",
+    mongourl: "mongodb+srv://remixbot:remixbot0709@cluster0.mi0en.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     embedColor: "",
     logs: "",
 
